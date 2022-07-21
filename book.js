@@ -26,3 +26,4 @@ email.addEventListener("input", function (event) {
     email.setCustomValidity("");
   }
 });
+
