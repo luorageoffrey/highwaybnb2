@@ -12,3 +12,4 @@ footer.innerHTML = `<footer>
 </div
 </footer>`
 document.body.appendChild(footer)
+// comment by malvin
