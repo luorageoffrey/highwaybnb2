@@ -19,6 +19,6 @@ navbar.innerHTML = "<div class=\"navbar\">\n" +
     "  </ul>\n" +
     "</div>"
 
-document.body.prepend(navbar)
+document.body.appendChild(navbar)
 
 // comments by Geoffrey
