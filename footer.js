@@ -11,4 +11,4 @@ footer.innerHTML = `<footer>
     </ul>
 </div
 </footer>`
-document.body.prepend(footer)
+document.body.appendChild(footer)
