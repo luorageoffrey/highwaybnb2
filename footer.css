@@ -1,9 +1,12 @@
+.footer_content li {
+    list-style: none;
+}
 .footer_content {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.socials {flex-direction: column;
+.socials {
     display: flex;
 }
