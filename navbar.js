@@ -20,3 +20,5 @@ navbar.innerHTML = "<div class=\"navbar\">\n" +
     "</div>"
 
 document.body.prepend(navbar)
+
+// comments by Geoffrey
