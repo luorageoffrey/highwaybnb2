@@ -3,7 +3,7 @@ navbar.innerHTML = "<div class=\"navbar\">\n" +
     "  <a href=\"index.html\" class=\"navbar-brand\">Highway BnB</a>\n" +
     "  <ul class=\"mx\">\n" +
     "    <li class=\"nav-item\">\n" +
-    "      <a href=\"add-listing.html\" class=\"nav-link nowrap\">Become a Host</a>\n" +
+    "      <a href=\"book.html\" class=\"nav-link nowrap\">Become a Host</a>\n" +
     "    </li>\n" +
     "    <li class=\"nav-item\">\n" +
     "      <a href=\"highwaybnb.html.html\" class=\"nav-link nowrap\">Browse Listings</a>\n" +
@@ -19,6 +19,6 @@ navbar.innerHTML = "<div class=\"navbar\">\n" +
     "  </ul>\n" +
     "</div>"
 
-document.body.appendChild(navbar)
+document.body.prepend(navbar)
 
 // comments by Geoffrey
