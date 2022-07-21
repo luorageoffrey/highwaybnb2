@@ -45,9 +45,7 @@
     margin-top: 10px;
 }
 .arr-dep input {
-    border-right: none;
-    border-left: none;
-    border-radius: 0;
+    border-radius: 5px;
 }
 search {
     border-top: none;
@@ -64,5 +62,9 @@ search {
         margin-top: 5%;
         width: auto;
         padding: 5%;
+    }
+    .arr-dep input {
+        border-radius: 5px;
+        width: 70%;
     }
 }
