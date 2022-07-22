@@ -6,7 +6,7 @@ navbar.innerHTML = "<div class=\"navbar\">\n" +
     "      <a href=\"add-listing.html\" class=\"nav-link nowrap\">Become a Host</a>\n" +
     "    </li>\n" +
     "    <li class=\"nav-item\">\n" +
-    "      <a href=\"highwaybnb.html.html\" class=\"nav-link nowrap\">Browse Listings</a>\n" +
+    "      <a href=\"highwaybnb.html\" class=\"nav-link nowrap\">Browse Listings</a>\n" +
     "    </li>\n" +
     "  </ul>\n" +
     "  <ul>\n" +
