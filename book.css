@@ -1,0 +1,71 @@
+
+*{
+    padding: 5px;
+    padding-bottom: 10px;
+    
+    
+}
+
+.nameRequired{
+    vertical-align:top
+}
+.email{
+    width: 100%;
+    
+}
+.arrivalDate{
+   display: flex;
+
+}
+
+.notes textarea{
+    width:648px;height:150px;
+    background-color: white;
+    border: 2px solid black;
+
+}
+
+*{
+    background-color: lightgray;
+
+}
+.mainWrapper{
+    padding-top: 20px;
+    padding-left: 40px;
+    display: list-item;
+}
+
+input {
+    border-radius: 10px;
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+}
+#button33{
+  
+    border-radius: 7px;
+    box-shadow: 50px;
+    display: list-item;
+    background-color: darkgreen;
+    width: 80px;
+    height: 40px;
+}
+
+.house1{
+    display: flex;
+}
+
+select {
+    width: 150px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+select > option {
+    background-color: white;
+}
